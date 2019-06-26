@@ -1,0 +1,8 @@
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\bin\Debug\netstandard2.0\StarcraftLibrary.deps.json
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\bin\Debug\netstandard2.0\StarcraftLibrary.dll
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\bin\Debug\netstandard2.0\StarcraftLibrary.pdb
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\obj\Debug\netstandard2.0\StarcraftLibrary.csproj.CoreCompileInputs.cache
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\obj\Debug\netstandard2.0\StarcraftLibrary.AssemblyInfoInputs.cache
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\obj\Debug\netstandard2.0\StarcraftLibrary.AssemblyInfo.cs
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\obj\Debug\netstandard2.0\StarcraftLibrary.dll
+C:\AzureDevOps\BestOfBuild2019\Broodwar\StarcraftLibrary\obj\Debug\netstandard2.0\StarcraftLibrary.pdb
